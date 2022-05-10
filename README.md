@@ -6,12 +6,6 @@ I'm a Game Developer who is passionate about making 3D and VR games; focusing mo
 
 Unity Engine / Procreate / Adobe Illustrator / Adobe Premiere Rush
 
-My interest in the now called Meta Quest 2 (previously known as the Oculus Quest 2), made me want to learn how to develop games for the Metaverse and how to bring the competitiveness of team-based games to VR.
-
- l In 2022, I decided to venture into the XR Industry by learning VR Game Development in Unity. 
-
-Here you will see all the projects I've worked on!
-
-- 🔭 I’m currently working on this page. 
+My interest in the now called Meta Quest 2 (previously known as the Oculus Quest 2), made me want to learn how to develop games for the Metaverse and how to bring the competitiveness of team-based games to VR. In 2022, I decided to venture into the XR Industry by learning VR Game Development in Unity. Here you will see all the projects I've worked on!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itspitaman)](https://github.com/anuraghazra/github-readme-stats)
