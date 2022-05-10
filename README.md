@@ -4,10 +4,7 @@
 
 I'm a Game Developer who is passionate about making 3D and VR games; focusing mostly on team-based competitive games and also casual couch-friendly games. Some of the tools that I love to work with include:
 
--Unity Engine
--Procreate
--Adobe Illustrator
--Adobe Premiere Rush
+Unity Engine / Procreate / Adobe Illustrator / Adobe Premiere Rush
 
 My interest in the now called Meta Quest 2 (previously known as the Oculus Quest 2), made me want to learn how to develop games for the Metaverse and how to bring the competitiveness of team-based games to VR.
 
