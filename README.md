@@ -2,7 +2,7 @@
 #### 3D / VR Game Developer
 
 
-![3D / VR Game Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![3D / VR Game Developer](https://github.com/itspitaman/itspitaman/blob/main/vr%20banner.jpg)
 
 
 
