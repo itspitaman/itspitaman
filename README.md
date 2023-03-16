@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Pita!
-#### 3D / VR Game Developer
+#### 3D / VR Game Developer & Game Designer
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
@@ -9,11 +9,11 @@
 
 ![3D / VR Game Developer](https://github.com/itspitaman/itspitaman/blob/main/vr%20banner.jpg)
 
-I'm a Game Developer who is passionate about making 3D and VR games; focusing mostly on team-based competitive games and also casual couch-friendly games. Some of the tools that I love to work with include:
+I'm a Game Developer who is passionate about making competitive and casual couch-friendly games. I also try to take my ideas into Virtual Reality. Some of the tools that I love to work with include:
 
-### Unity Engine / Procreate / Adobe Illustrator / Adobe Premiere Rush
+### Unity Engine / Unreal Engine 5 / Adobe Illustrator / Adobe Premiere Rush / Procreate
 
-My interest in the now called Meta Quest 2 (previously known as the Oculus Quest 2), made me want to learn how to develop games for the Metaverse and how to bring the competitiveness of team-based games to VR. In 2022, I decided to venture into the XR Industry by learning VR Game Development in Unity. Here you will see all the projects I've worked on!
+Here you will see all the projects I've worked on!
 
 ### Latest VR Project: Kindled Spirits VR
 <img src="https://github.com/itspitaman/itspitaman/blob/main/KindledSpirits_Gif_1.gif" width="500" />
